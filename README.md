@@ -13,4 +13,4 @@ K - Jad & Cross Body (Jab e Cruzado no corpo)
 Ao apertar duas ou mais dessas teclas, as animações rodam em sequência.
 
 Configuração:
-Animação criada no Makehuman, com rig feito e animações feitos no Mixamo. Texturas do próprio Makehuman. Animação com animator da Unity, utilizando blend trees.
+Modelo criado no Makehuman, com rig e animações feitos no Mixamo. Texturas do próprio Makehuman. Animação com animator da Unity, utilizando blend trees.
